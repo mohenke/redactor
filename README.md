@@ -51,7 +51,7 @@ Built as a proof-of-concept for [GR (Göteborgsregionens Innovationsarena)](http
 ## Getting started
 
 ```bash
-git clone https://github.com/Krimskrantz/redact.git
+git clone https://github.com/mohenke/redact.git
 cd redact
 ./start.sh
 ```
